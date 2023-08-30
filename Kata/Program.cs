@@ -13,6 +13,17 @@ namespace Kata
     {
         static void Main(string[] args)
         {
+            //int x;
+            //var isDigit = Int32.TryParse(Console.ReadLine(), out x);
+            //if (isDigit == false)
+            //{
+            //    Console.WriteLine("Try again with number");
+            //    return;
+            //}
+            //var res = x switch
+            //{
+            //    < 18.5 => "too light",
+            //}
         }
     }
 }
